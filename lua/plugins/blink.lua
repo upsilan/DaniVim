@@ -3,7 +3,7 @@ return {
   version = "*",
 
   opts = {
-    keymaps = {
+    keymap = {
       preset = "default",
     },
 
